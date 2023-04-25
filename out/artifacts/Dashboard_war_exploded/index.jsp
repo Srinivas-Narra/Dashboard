@@ -15,6 +15,6 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-<h1> <%= new DateAndTimeDisplay().getTimeStamp() %> </h1>
+<h1> <%= new DateAndTimeDisplay().getTimeStamp()%></h1>
   </body>
 </html>
