@@ -1,0 +1,34 @@
+h1 {
+    height: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 72px;
+    margin: 0;
+    padding: 0 ;
+}
+body{
+    background: black;
+    margin: 0;
+    padding: 0 ;
+}
+p {
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+}
+#info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 72px;
+    margin: 0;
+    padding: 0 ;
+
+}
